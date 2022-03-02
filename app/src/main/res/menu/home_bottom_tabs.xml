@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/classments"
+        android:title="Classments"
+        android:icon="@drawable/accueil_classements" />
+    <item android:id="@+id/recherche"
+        android:title="Recherche"
+        android:icon="@drawable/accueil_recherche" />
+    <item android:id="@+id/favoris"
+        android:title="Favoris"
+        android:icon="@drawable/accueil_favoris" />
+
+</menu>
